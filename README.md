@@ -1,5 +1,9 @@
 # Niri / Noctalia Configuration files
 
+### Preview
+
+![Preview](preview.png)
+
 ### [Installation (ARCH)]
 
 Get the following packages.
