@@ -23,3 +23,6 @@ EasyEffects
 move noctalia and niri directories inside ~/.config/
 
 
+Currently noctalia uses /home/turre/ directory to look for stuff such as wallpapers etc. Change these accordingly via. noctalia or the config files.
+
+
